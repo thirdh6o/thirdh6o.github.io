@@ -8,7 +8,8 @@ categories: 杂项
 description: 本文章通过了一个小示例，介绍了如何使用 Electron 从 HTML 到桌面应用的基本过程。
 ---
 ## 事前准备
-我们准备好HTML、CSS、JavaScript文件，并保证其可以在浏览器环境种正常运行。   
+我们准备好HTML、CSS、JavaScript文件，并保证其可以在浏览器环境中正常运行。   
+如果您还没有现成的HTML文件，可以访问我的[GitHub仓库](https://github.com/thirdh6o/hyq_works)获取示例代码。  
 本例子中我准备了一个简单的界面
 {% asset_img 1.png %}
 结构也很简单：
